@@ -1,0 +1,7 @@
+D:\PTTKTT_BTL_QHD\Đường đi NGH\bin\Debug\Đường đi NGH.exe.config
+D:\PTTKTT_BTL_QHD\Đường đi NGH\bin\Debug\Đường đi NGH.exe
+D:\PTTKTT_BTL_QHD\Đường đi NGH\bin\Debug\Đường đi NGH.pdb
+D:\PTTKTT_BTL_QHD\Đường đi NGH\obj\Debug\Đường đi NGH.csproj.AssemblyReference.cache
+D:\PTTKTT_BTL_QHD\Đường đi NGH\obj\Debug\Đường đi NGH.csproj.CoreCompileInputs.cache
+D:\PTTKTT_BTL_QHD\Đường đi NGH\obj\Debug\Đường đi NGH.exe
+D:\PTTKTT_BTL_QHD\Đường đi NGH\obj\Debug\Đường đi NGH.pdb
